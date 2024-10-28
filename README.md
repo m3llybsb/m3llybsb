@@ -1,12 +1,10 @@
 ## Olá 😃
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-kelvyn-oliveira-69504b221/)
 
 ![TkelvynGitHub stats](https://github-readme-stats.vercel.app/api?username=m3llybsb&show_icons=true&theme=dracula)
 
-## Tecnologias utilizadas no dia a dia:
+## Tecnologias que tenho mais familiaridade:
 <div style="display: inline_block"><br/>
     <img align"center" alt="sheel" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img align"center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
